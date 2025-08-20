@@ -1,25 +1,25 @@
 # melborne-housing-analysis
 
-# 🏡 Melbourne Housing Market Analysis
+# 🏡 Анализ рынка жилья Мельбурна
 
-A full exploratory data analysis (EDA) project based on the [Melbourne Housing Snapshot dataset](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot).
+Полный проект разведочного анализа данных (EDA), основанный на [Melbourne Housing Snapshot dataset](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot).
 
-## 📌 Objective
+## 📌 Цель
 
-Identify key factors influencing property prices in Melbourne.  
-Provide insights on location-based trends, investment opportunities, and potential anomalies in the data.  
-Final goal: support marketing and investment decisions with data-driven insights.
+Выявить ключевые факторы, влияющие на цены недвижимости в Мельбурне.  
+Предоставить инсайты по тенденциям, связанным с расположением, инвестиционным возможностям и возможным аномалиям в данных.  
+Окончательная цель: поддержка маркетинговых и инвестиционных решений на основе данных.
 
 ---
 
-## 🧠 Business Questions
+## 🧠 Бизнес-вопросы
 
-- What features most influence property price?
-- Does proximity to the city center correlate with price?
-- Which suburbs are most/least expensive?
-- Where can we find large plots of land for a low price?
-- What anomalies exist in the dataset?
-- What trends are useful for real estate marketing?
+- Какие характеристики больше всего влияют на цену недвижимости?
+- Коррелирует ли близость к центру города с ценой?
+- Какие пригороды самые дорогие и самые дешёвые?
+- Где можно найти большие земельные участки по низкой цене?
+- Какие аномалии присутствуют в наборе данных?
+- Какие тенденции полезны для маркетинга недвижимости?
 
 ---
 
